@@ -1,0 +1,106 @@
+
+ 
+  .grid-container {
+    display: inline;
+  }
+
+.Nuestros-Productos {
+    text-align: center; margin-top: 60px;
+}
+
+
+.DivItem {
+    width:25% ;
+    height:450px ;
+    background-color: #037BC0;
+    display:grid;
+    float:right; 
+    margin-top:60px ;
+}
+
+.imagen-item-1 {
+    width: 75%;
+    height: 450px;
+    float: left;
+    margin-top: 60px;
+}
+
+.DivProducts {
+  width: 75%;
+  margin-left: 12.5%;
+}
+
+.agregar-carrito1 {
+  background-color:rgb(119, 182, 3);
+   width:80%; 
+   height:40px;
+   margin-left: auto;
+   margin-right: auto;
+  vertical-align: middle;
+}
+
+.imagen-7 {
+width: 40%;
+height: 300px;
+padding-right:10px ;
+}
+
+.imagen-6 {
+  width: 40%;
+  height: 300px;
+  padding-left:10px ;
+  padding-right: 40px;
+}
+
+
+.product-2 {
+margin-left: 193px;
+display: flex;
+flex-direction: row;
+
+}
+
+.product-3 {
+  margin-left: 193px;
+  display: flex;
+  flex-direction: row;
+  
+  }
+
+  .divitem-456 {
+
+    margin-left: 193px;
+    display: flex;
+    flex-direction: row;
+  }
+
+
+
+  a:link, a:visited, a:active {
+    text-decoration:none;
+}
+
+.texto {
+width: 40%;
+display: inline-block;
+padding-top: 7%;
+padding-left: 4%;
+}
+
+.texto2 {
+  width: 40%;
+  display:inline-block;
+  padding-top:5%;
+  padding-left: 4%;
+}
+
+.superior {
+  display: inline;
+}
+
+.Leer {
+  background-color:rgb(119, 182, 3);
+  width:20%; 
+  height:40px;
+}
+
